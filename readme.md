@@ -5,11 +5,13 @@
 Example usage:
 
 (3 backtick keys)
-text
+
+text you want to copy
+
 (3 backtick keys)
 
 ```
-text you wanted
+text you want to copy
 ```
 
 for this, we need to have an extension also (markdown preview enhanced)
