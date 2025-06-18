@@ -1,13 +1,14 @@
 ![alt text](image.png)
 
 
-for making text as copy format use ```
+1. for making text as copy format use ```
 
 Example usage:
 
-```
-github.com/dasari96
+``` (3 tilts)
+text
 ```
 
 for this, we need to have an extension also (markdown preview enhanced)
 
+2. For terminal, use ctrl + `
