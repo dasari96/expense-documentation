@@ -4,9 +4,9 @@
 
 Example usage:
 
-(3 backtick keys `)
+(3 backtick keys)
 text
-(3 backtick keys `)
+(3 backtick keys)
 
 ```
 text you wanted
