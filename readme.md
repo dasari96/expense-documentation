@@ -5,9 +5,9 @@
 
 Example usage:
 
-(3 tilts) ```
+(3 backtick keys)
 text you wanted
-(3 tilts)
+(3 ```)
 
 ```
 text you wanted
