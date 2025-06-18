@@ -5,7 +5,7 @@
 Example usage:
 
 (3 backtick keys `)
-# text
+text
 (3 backtick keys `)
 
 ```
